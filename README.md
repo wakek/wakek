@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wakek.
 - 👀 I love to bring ideas to life.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React/Flutter.
 - 💞️ I’m looking to collaborate on fun projects 😊.
 - 📫 How to reach me: akyei908@gmail.com
 
